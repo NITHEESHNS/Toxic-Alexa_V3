@@ -1,3 +1,3 @@
 {
-	"name": "Toxic-Alexa Multi Device"
+	"name": "swag_sir Multi Device"
 }
